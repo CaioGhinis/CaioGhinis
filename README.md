@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Caio Ghinis
 
 
-- 🔭 Hoje trabalho com Front-end
-- 🌱 Atualmente estou estudando React
+- 🔭 Hoje trabalho com Back-End
+- 🌱 Atualmente estou estudando Java
 
 <div align="center">
   <a href="https://github.com/CaioGhinis">
